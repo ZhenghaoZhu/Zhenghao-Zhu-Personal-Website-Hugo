@@ -1,4 +1,4 @@
-baseURL = "https://zhenghaozhu.com"
+baseURL = "https://zhenghaozhu.me"
 publishDir = "zhenghaozhu.github.io/"
 languageCode = "en-us"
 title = "Zhenghao (Kevin) Zhu"
